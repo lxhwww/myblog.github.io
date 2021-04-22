@@ -1,5 +1,5 @@
-## The impact of an epidemic on people's mood
-
+# The impact of an epidemic on people's mood
+## technique
 https://mybinder.org/v2/gh/PPPHUB/twitter-emotion-recognition/HEAD
 https://en.wikipedia.org/wiki/Granger_causality
 
