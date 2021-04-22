@@ -1,7 +1,7 @@
 ## The impact of an epidemic on people's mood
 
 https://mybinder.org/v2/gh/PPPHUB/twitter-emotion-recognition/HEAD
-https://mybinder.org/v2/gh/PPPHUB/twitter-emotion-recognition/HEAD
+
 ### aim
 project we need to use on github
 https://github.com/PPPHUB/twitter-emotion-recognition
