@@ -1,6 +1,7 @@
 # The impact of an epidemic on people's mood
 ## Demo
-https://mybinder.org/v2/gh/PPPHUB/twitter-emotion-recognition/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PPPHUB/twitter-emotion-recognition/HEAD)
+
 ## techniques
 https://en.wikipedia.org/wiki/Granger_causality
 
