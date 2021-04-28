@@ -4,6 +4,7 @@
 
 ## techniques
 Granger causality： [Granger causality](https://en.wikipedia.org/wiki/Granger_causality)
+
 covariance maritx (https://en.wikipedia.org/wiki/Covariance)
 ### aim
 project we need to use on github
