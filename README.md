@@ -4,7 +4,7 @@
 
 ## techniques
 Granger causality： [Granger causality](https://en.wikipedia.org/wiki/Granger_causality)
-
+covariance maritx (https://en.wikipedia.org/wiki/Covariance)
 ### aim
 project we need to use on github
 [a nlp project](https://github.com/PPPHUB/twitter-emotion-recognition)
@@ -14,7 +14,7 @@ we want to find the relation between epidemic and people's emotion.
 ## idea
 First, load the model and predict all tweets in the data set.(Still need to debug)<-we are here now
 
-Second,calcuate the gradient
+Second,calcuate the gradient 
 
 thrid,plot the picture by histgram, plot, hotmap, and try to compare the cruve.
 
