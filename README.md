@@ -12,7 +12,7 @@ project we need to use on github
 we want to find the relation between epidemic and people's emotion.
 
 ## idea
-First, load the model and predict all tweets in the data set.(Still need to debug)
+First, load the model and predict all tweets in the data set.(Still need to debug)<-we are here now
 
 Second,calcuate the gradient
 
