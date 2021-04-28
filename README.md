@@ -3,11 +3,17 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PPPHUB/twitter-emotion-recognition/HEAD)
 
 ## techniques
-https://en.wikipedia.org/wiki/Granger_causality
+Granger causality： https://en.wikipedia.org/wiki/Granger_causality
 
 ### aim
 project we need to use on github
 https://github.com/PPPHUB/twitter-emotion-recognition
+
+we want to find the relation between epidemic and people's emotion.
+
+## idea
+First, load the model and predict all tweets in the data set.(need to debug)
+
 
 ```markdown
 Syntax highlighted code block
